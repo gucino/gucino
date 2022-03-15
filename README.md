@@ -2,7 +2,7 @@
 
 
 ### Hi! I'm Cino
-Currently work as a full time data scientist based in Bangkok, Thailand. Completed master degree in Data science from University of Bath, UK in 2020. Previously work at [freshket](https://www.freshket.co/?gclid=CjwKCAjw8sCRBhA6EiwA6_IF4RCb1UWZPGPNwEQwhlKNVesIh0WaZs5JqRnockxPDNpzPmI6pUTNrBoCskMQAvD_BwE), an online food supply chain platform.
+Currently work as a full time data scientist based in Bangkok, Thailand. Completed master degree in data science from University of Bath, United Kingdom in 2020. 
 
 Check out my NFT collections! [tsigoloib](https://opensea.io/tsigoloib), biologist backward is an biology and artificial intelligence inspired NFT minted on opensea.io polygon chain since June 2021 using Blender 3D modeling. There are currently 5 collections: The new-normal, The 2nd wave of Covid19, The infected DNA, Did you wash your hands, Artificial Intelligence: Oppurtunity or Threat.
 
