@@ -1,5 +1,5 @@
 
-## NFT
+### NFT
 [tsigoloib](https://opensea.io/tsigoloib), biologist backward is an biology and artificial intelligence inspired NFT minted on opensea.io polygon chain since June 2021 using Blender 3D modeling. The theme here combine the aspect of biology such as virus/disease and technology such as artificial intelligence and cyber crime. 
 | | | | | |
 |:-------------------------:|:-------------------------:| :-------------------------:|:-------------------------:|:-------------------------:|
