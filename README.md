@@ -10,13 +10,13 @@ Check out my NFT collection, [tsigoloib](https://opensea.io/tsigoloib), biologis
 
 
 ### Medium
-I also share some stuff that I find interesting on [Medium](https://medium.com/@TisanaWanwarn). Most of the articles are datascience and machine learning related. Check my recen post on medium:
+I also share some stuff that I find interesting on [Medium](https://medium.com/@TisanaWanwarn). Most of the articles are data science and machine learning related. Check my recen post on medium:
 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@TisanaWanwarn/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@TisanaWanwarn/0"> 
+<!---
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@TisanaWanwarn/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@TisanaWanwarn/3"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@TisanaWanwarn/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@TisanaWanwarn/5"> 
   <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@TisanaWanwarn/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@TisanaWanwarn/6"> 
-<!---
 -->
   
   
