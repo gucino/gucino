@@ -12,13 +12,14 @@ Check out my NFT collections! [tsigoloib](https://opensea.io/tsigoloib), biologi
 |<img alt="screen shot 2017-08-07 at 12 18 15 pm" src="./DNA/DNA5.png"> |<img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus11.png">| <img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./second_wave/virus7.png"> | <img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./did_you_wash_your_hand/brain2.png"> | <img  alt="screen shot 2017-08-07 at 12 18 15 pm" src="./ANN/DL13.png"> |
 
 
-I also share some stuff that I find interesting on [Medium](https://medium.com/@TisanaWanwarn). Most of the articles are data science and machine learning related. But some can be statistical illusion related writing that I found it hard to believe such as Why switch is better than stay in Monty Hall gameshow. Check out my latest article on Medium:
+I also share some stuff that I find interesting on [Medium](https://medium.com/@TisanaWanwarn). Most of the articles are data science and machine learning related. But some can be statistical illusion related writing that I found it hard to believe such as Why switch is better than stay in Monty Hall gameshow. 
+
 <!---
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@TisanaWanwarn/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@TisanaWanwarn/0"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@TisanaWanwarn/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@TisanaWanwarn/3"> 
--->
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@TisanaWanwarn/6"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@TisanaWanwarn/6"> 
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@TisanaWanwarn/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@TisanaWanwarn/5"> 
+-->
 
     
     
