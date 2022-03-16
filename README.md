@@ -4,7 +4,7 @@
 ### Hi! I'm Cino
 Currently work as a full time data scientist based in Bangkok, Thailand. Completed master degree in data science from University of Bath, United Kingdom in 2020. 
 
-Check out my NFT collections! [tsigoloib](https://opensea.io/tsigoloib), biologist backward is an biology and artificial intelligence inspired NFT minted on opensea.io polygon chain since June 2021 using Blender 3D. There are currently 5 collections: The new-normal, The 2nd wave of Covid19, The infected DNA, Did you wash your hands, and Artificial Intelligence: Oppurtunity or Threat.
+Check out my NFT collections! [tsigoloib](https://opensea.io/tsigoloib), biologist backward is an biology and artificial intelligence inspired NFT minted on opensea.io polygon chain since June 2021 using Blender 3D. There are currently 5 collections: The new-normal, The 2nd wave of Covid19, The infected DNA, Did you wash your hands, and Artificial Intelligence: Oppurtunity or Threat: [more detail](https://github.com/gucino/tsigoloib)
 
 | | | | | |
 |:-------------------------:|:-------------------------:| :-------------------------:|:-------------------------:|:-------------------------:|
